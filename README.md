@@ -30,3 +30,6 @@
   </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/n0yukk/n0yukk/output/snake.svg" alt="Snake animation" />
